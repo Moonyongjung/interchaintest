@@ -178,4 +178,5 @@ replace (
 	github.com/tendermint/tendermint => github.com/cometbft/cometbft v0.34.27
 	// github.com/tidwall/btree => github.com/tidwall/btree v1.5.0
 	github.com/vedhavyas/go-subkey => github.com/strangelove-ventures/go-subkey v1.0.7
+	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
